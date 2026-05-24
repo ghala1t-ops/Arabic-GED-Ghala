@@ -1,6 +1,7 @@
 # Arabic-GED-Ghala
 
-Arabic banking intent classification project using machine learning and deep learning techniques.
+Arabic banking intent classification project based on the ArBanking77 research paper.  
+This repository includes code, dataset files, and experiments for classifying Arabic banking user queries into intent categories.
 
 ## Project Overview
 
